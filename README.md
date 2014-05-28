@@ -1,4 +1,4 @@
 42sek
 =====
 
-For my friend that is starting to loarn PHP
+For my friend who is starting to learn PHP.
